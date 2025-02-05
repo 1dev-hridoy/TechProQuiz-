@@ -1,5 +1,5 @@
 <?php
-define('QUIZ_API_KEY', 'BNX9JBGQrKpRJKikOqUPvFPzAEZGcUPmRMpIUo3Q');
+define('QUIZ_API_KEY', 'YOUR_API_KEY_HERE');
 define('USER_LOGIN', 'hridoy09bg');
 date_default_timezone_set('UTC');
 
